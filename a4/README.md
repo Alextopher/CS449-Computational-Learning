@@ -3,10 +3,6 @@
 ## How to run
 Within test-gym.py scroll to the bottom and edit the `if __name__ == "__main__":` block.
 
-```
-
-```
-
 > Install OpenAI gym and test run this basic driver program. Feel free to tweak or change some of the parameters.
 > It contains two simple-minded policies to balance the pole. Which strategy is better? 
 
