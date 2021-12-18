@@ -1,3 +1,12 @@
+# Assignment 0
+
+> Revisit our neural network assignment (HW2) but reimplement it using standard open-source machine learning software packages
+> Scikit-learn
+> Google's Tensorflow
+
+I used Scikit and used the same hyperparameters as my HW2. It's nice to see the packages didn't have great testing performance like me.
+
+```
 Training Report:
               precision    recall  f1-score   support
 
@@ -17,3 +26,4 @@ Testing Report:
     accuracy                           0.75       100
    macro avg       0.75      0.75      0.75       100
 weighted avg       0.75      0.75      0.75       100
+```

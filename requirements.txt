@@ -1,0 +1,7 @@
+tensorflow
+gym
+pyglet
+sklearn
+ipykernel
+matplotlib
+numpy
